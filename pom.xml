@@ -16,9 +16,9 @@
   </parent>
 
   <scm>
-    <connection>scm:git:https://github.com/jruby/jay-yydebug.git</connection>
-    <developerConnection>scm:git:git@github.com:jruby/jay-yydebug</developerConnection>
-    <url>https://github.com/jruby/jay-yydebug</url>
+    <connection>scm:git:https://github.com/jruby/yecht.git</connection>
+    <developerConnection>scm:git:git@github.com:jruby/yecht</developerConnection>
+    <url>https://github.com/jruby/yecht</url>
   </scm>
   
   <build>

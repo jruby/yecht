@@ -10,6 +10,7 @@ import org.jruby.runtime.load.BasicLibraryService;
 
 import org.yecht.YAML;
 import org.yecht.ruby.*;
+import org.yecht.ruby.Module;
 
 public class YechtService implements BasicLibraryService {
     public boolean basicLoad(final Ruby runtime) throws IOException {
